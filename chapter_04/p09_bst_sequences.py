@@ -1,3 +1,5 @@
+# For understand of logic please look into this docs. https://medium.com/@jackwootton/binary-search-tree-sequences-53163b1f374a
+
 from chapter_04.binary_search_tree import BinarySearchTree
 
 

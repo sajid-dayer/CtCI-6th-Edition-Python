@@ -16,6 +16,9 @@ class ComparableBinaryTree(BinaryTree):
     NodeCls = ComparableTreeNode
 
 
+# For better and understable solutions https://www.geeksforgeeks.org/check-if-a-binary-tree-is-subtree-of-another-binary-tree/
+    
+    
 # "needle in a haystack"
 # haystack == the thing we're searching inside
 # needle == the thing we're looking for

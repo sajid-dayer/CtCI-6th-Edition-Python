@@ -1,6 +1,8 @@
 import random
 from collections import defaultdict
 
+# other way to solve this https://www.geeksforgeeks.org/select-random-node-tree-equal-probability/
+
 
 class Node:
     def __init__(self, key):

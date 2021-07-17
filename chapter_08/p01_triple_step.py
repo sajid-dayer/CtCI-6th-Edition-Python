@@ -1,3 +1,5 @@
+
+# we can memo into this to optimized solutions.
 def triple_hop(x):
     if x < 0:
         return 0
